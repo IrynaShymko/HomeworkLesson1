@@ -30,6 +30,7 @@ public class HomeworkPart2Task2 {
         } catch (InputMismatchException e) {
             System.out.println("It is bad value. Allowed integers > 0 only!");
             System.out.println("The program needs to be started again.");
+            System.out.println("The program needs to be started again.");
         }
     }
 }
